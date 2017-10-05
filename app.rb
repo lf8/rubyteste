@@ -4,6 +4,7 @@
 # ®2017 @LuisMarta - luistecnologia@hotmail.com
 #
 
+require 'rubygems'
 require 'sinatra'
 require '/var/opt/sinatra/src/control_ip'
 require 'json'
