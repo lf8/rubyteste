@@ -6,7 +6,7 @@
 
 require 'rubygems'
 require 'sinatra'
-require '/var/opt/sinatra/src/control_ip'
+require './control_ip'
 require 'json'
 require 'logger'
 
